@@ -19,3 +19,4 @@ CREATE TABLE operational_settlement_logs (
     exposure_at_default_millions NUMERIC(10,2),
     settlement_status VARCHAR(30) -- APPROVED, HOLD_FOR_COLLATERAL, REJECTED
 );
+CREATE DATABASE credit_ops_db;
