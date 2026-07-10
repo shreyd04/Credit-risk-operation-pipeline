@@ -1,13 +1,14 @@
 # 🛡️ Institutional Credit Risk & Settlement Control Console
 
-**Goldman Sachs Operations Division**  
+**Streamlit Dashboard : https://credit-risk-operation-pipeline-tz4ubrgx4kenurdvg5knjs.streamlit.app**
+
 *Core Transaction Integrity & Counterparty Risk Monitor*
 
 ---
 
 ## Operational Mandate Mapping
 
-This system addresses the fundamental pillars of Goldman Sachs Operations Division governance:
+This system addresses the fundamental pillars of  Operations Division governance:
 
 1. **Pre-Trade Clearance & Compliance**: Automated underwriting workflows intercept counterparty risk before trade execution, eliminating manual clearance delays and policy exception leakage.
 
@@ -338,7 +339,7 @@ streamlit run app.py
   Network URL: http://<your-ip>:8501
 ```
 
-Open a web browser and navigate to `http://localhost:8501` to access the Institutional Credit Risk & Settlement Control Console.
+Open a web browser and navigate to `https://credit-risk-operation-pipeline-tz4ubrgx4kenurdvg5knjs.streamlit.app` to access the Institutional Credit Risk & Settlement Control Console.
 
 ### Step 5: Interact with the Dashboard
 
