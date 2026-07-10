@@ -1,7 +1,9 @@
 # 🛡️ Institutional Credit Risk & Settlement Control Console
 
 **Streamlit Dashboard : https://credit-risk-operation-pipeline-tz4ubrgx4kenurdvg5knjs.streamlit.app**
-<img width="1440" height="811" alt="Screenshot 2026-05-11 at 8 27 16 PM" src="https://github.com/user-attachments/assets/d1b1ebe8-3177-4ec2-9f77-f0ce01ed353f" />
+
+<img width="1434" height="812" alt="Screenshot 2026-07-10 at 10 52 16 AM" src="https://github.com/user-attachments/assets/9bec880d-0c50-4335-8500-298ba3e53829" />
+
 
 
 *Core Transaction Integrity & Counterparty Risk Monitor*
