@@ -55,7 +55,8 @@ if not df.empty:
         def highlight_settlement(val):
             return 'background-color: #FFD2D2; color: #9C0006' if val == 'HOLD_FOR_COLLATERAL' else 'background-color: #D2FFD2; color: #006100'
             
-        st.dataframe(df.style.applymap(highlight_settlement, subset=['settlement_status']), use_container_width=True)
+        st.dataframe(df.style.map(highlight_settlement, subset=['settlement_status']), use_container_width=True)
+
         
     with col2:
         st.subheader("📊 Exposure Distribution by Risk Tier")

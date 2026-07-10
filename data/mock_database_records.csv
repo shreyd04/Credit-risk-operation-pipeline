@@ -1,0 +1,2 @@
+counterparty_id,legal_entity_name,sector,current_ratio,leverage_ratio,altman_z_score,model_default_probability,risk_rating_tier,exception_status,pending_trade_volume_millions,exposure_at_default_millions,settlement_status,last_updated_timestamp
+CP-7892,Apex Alpha Hedge Fund,Broker-Dealer,1.047619048,0.69047619,1.232977422,0.0,GS-1,CRITICAL EXCEPTION,45.5,31.416666645000003,HOLD_FOR_COLLATERAL,2026-07-09 23:57:55
